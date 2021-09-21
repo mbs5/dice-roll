@@ -1,5 +1,8 @@
 # dice-roll
-Game Instructions !
+Play Here 
+https://mbs5.github.io/dice-roll/
+
+Read the Instructions first!
 
 Player 1 rolls a dice until it gets 1 and the current score also goes to zero,
 than switched to Player 2.
